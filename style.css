@@ -1,0 +1,45 @@
+h1{
+    color:skyblue;
+}
+h2{
+    color:rebeccapurple;
+}
+.text{
+    font-size: 36px;
+    color: black;
+}
+.profile{
+    position: relative;
+    top: 30;
+    left: 270;
+    font-size: 24px;
+    color: rgb(204, 201, 216);
+}
+.menu{
+    position: fixed;
+    top: 160;
+    left: 10;
+    font-size: 30px;
+    color: rgb(86, 86, 221);
+}
+.circle_picture{
+    position: fixed;
+    top: 10;
+    left: 50;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-position: right;
+}
+.v_line{
+    position: fixed;
+    top: 0;
+    left: 155;
+    margin-left: 100px;
+    width: 5px;
+    height: 100%;
+    background-color: gray;
+}
+body{
+    background-color: #2e2e2e;
+}
