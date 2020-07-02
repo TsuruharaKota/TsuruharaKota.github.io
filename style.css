@@ -22,6 +22,13 @@ h2{
     font-size: 30px;
     color: rgb(86, 86, 221);
 }
+.works{
+    position: fixed;
+    top: 30;
+    left: 270;
+    font-size: 24px;
+    color: rgb(204, 201, 216);
+}
 .circle_picture{
     position: fixed;
     top: 10;
